@@ -5,3 +5,11 @@ git:
       source_language: en
       source_file: locale/example.txt
       translation_files_expression: 'translations/<lang>/'
+      
+git:
+  filters:
+    - filter_type: file
+      file_format: XML
+      source_language: en
+      source_file: locale/example.xml
+      translation_files_expression: 'translations/<lang>/'
