@@ -14,7 +14,6 @@ git:
 settings:
 pr_branch_name: tx_translations_<br_unique_id>
 language_mapping:
-es_419: es-419
-pt_BR: pt-br
-zh_CN: zh-cn
-zh_TW: zh-tw
+nb: nb-NO
+sv: sv-SE
+en_US: en-US
