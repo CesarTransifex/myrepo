@@ -2,7 +2,7 @@ git:
   filters:
     - filter_type: file
       file_format: RESX
-      source_language: en_US
+      source_language: en
       source_file: Client/WebClient/VatCode.resx
       translation_files_expression: 'Client/WebClient/VatCode.<lang>.resx'
       
@@ -11,7 +11,7 @@ git:
     - filter_type: file
       file_format: KEYVALUEJSON
       source_language: en
-      source_file: Client/WebClient/React/src/__translations__/general.json
+      source_file: Client/WebClient/React/src/__translations__/general.en-US.json
       translation_files_expression: 'Client/WebClient/React/src/__translations__/general.<lang>.json'
       
  # mapping
