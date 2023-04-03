@@ -3,11 +3,11 @@ git:
     - filter_type: file
       file_format: YML
       source_language: en
-      source_file_dir: public/locales/
+      source_file: public/locales/
       translation_files_expression: '<lang>'
       
     - filter_type: file
       file_format: YML
       source_language: en
-      source_file_dir: public/locales/
+      source_file: public/locales/
       translation_files_expression: '<lang>'
