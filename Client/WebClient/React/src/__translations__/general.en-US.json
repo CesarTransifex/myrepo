@@ -1,0 +1,3 @@
+{
+  "files": "{count, plural, one {You have {count} file.} other {You have {count} files.}}"
+}
