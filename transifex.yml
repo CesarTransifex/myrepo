@@ -6,7 +6,6 @@ git:
       source_file: Client/WebClient/VatCode.resx
       translation_files_expression: 'Client/WebClient/VatCode.<lang>.resx'
       
-git:
   filters:
     - filter_type: file
       file_format: KEYVALUEJSON
