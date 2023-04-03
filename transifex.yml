@@ -10,3 +10,10 @@ git:
       source_language: en
       source_file: Client/WebClient/React/src/__translations__/general.en-US.json
       translation_files_expression: 'Client/WebClient/React/src/__translations__/general.<lang>.json'
+      
+      settings:
+      pr_branch_name: main<br_unique_id>
+      language_mapping: 
+      nb: nb-NO
+      sv: sv-SE
+      en_US: en-US
