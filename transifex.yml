@@ -1,7 +1,13 @@
 git:
 filters:
 - filter_type: file
-  file_format: RESX
+  file_format: YML
   source_language: en
-  source_file: Client/WebClient/VatCode.resx
-  translation_files_expression: 'Client/WebClient/VatCode.<lang>.resx'
+  source_file: config/locales/simple_form.en.yml
+  translation_files_expression: 'config/locales/simple_form.<lang>.yml'
+
+- filter_type: file
+  file_format: YML
+  source_language: en
+  source_file: config/locales/en.yml
+  translation_files_expression: 'config/locales/<lang>.yml'
