@@ -4,5 +4,5 @@ filters:
   file_format: STRINGS
   source_file_extension: strings
   source_language: en
-  source_file_dir: locale/
+  source_file_dir: locale/source
   translation_files_expression: 'Translations/<lang>'
