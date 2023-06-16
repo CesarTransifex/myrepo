@@ -20,68 +20,72 @@ msgstr ""
 
 #: BetterWorks/forms/validators.py:26
 msgid "Email address is required."
-msgstr ""
+msgstr "Email addresses are required."
 
 #: BetterWorks/forms/validators.py:29
 msgid "Email address must have @ symbol."
-msgstr ""
+msgstr "Email address must have @ symbol."
 
 #: BetterWorks/forms/validators.py:34
 msgid "Enter a valid email address."
-msgstr ""
+msgstr "Enter a valid email address."
 
 #: BetterWorks/forms/validators.py:39
 #, python-format
 msgid "%s is an invalid domain."
-msgstr ""
+msgstr "%s is an invalid domain."
 
 #: BetterWorks/templates/404.html:7
 msgid "Page Not Found"
-msgstr ""
+msgstr "Page Not Found"
 
 #: BetterWorks/templates/404.html:25 BetterWorks/templates/500.html:23
 msgid "Oops!"
-msgstr ""
+msgstr "Oops!"
 
 #: BetterWorks/templates/404.html:26
 msgid ""
 "404 error, this page does not exist. Either the link is outdated or the "
 "address is mistyped."
 msgstr ""
+"404 error, this page does not exist. Either the link is outdated or the "
+"address is mistyped."
 
 #: BetterWorks/templates/404.html:28
 msgid "Back to homepage"
-msgstr ""
+msgstr "Back to homepage"
 
 #: BetterWorks/templates/500.html:7
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Internal Server Error"
 
 #: BetterWorks/templates/500.html:24
 msgid ""
 "500 error, there is a problem loading this data. Check back in a little "
 "while."
 msgstr ""
+"500 error, there is a problem loading this data. Check back in a little "
+"while."
 
 #: BetterWorks/templates/djangosaml2/logout_error.html:4
 #: BetterWorks/templates/logout.html:48
 msgid "You've been logged out of Betterworks"
-msgstr ""
+msgstr "You've been logged out of Betterworks"
 
 #: BetterWorks/templates/djangosaml2/logout_error.html:5
 #: BetterWorks/templates/logout.html:53
 msgid "To access Betterworks, please click the link below."
-msgstr ""
+msgstr "To access Betterworks, please click the link below."
 
 #: BetterWorks/templates/djangosaml2/logout_error.html:7
 #: BetterWorks/templates/logout.html:58
 msgid "Access Betterworks"
-msgstr ""
+msgstr "Access Betterworks"
 
 #: BetterWorks/templates/mobilessoconfirm.html:121
 msgid "Hi, Betterworks would like to access your account:"
-msgstr ""
+msgstr "Hi, Betterworks would like to access your account:"
 
 #: BetterWorks/templates/mobilessoconfirm.html:124
 msgid "Allow"
-msgstr ""
+msgstr "Allow"
